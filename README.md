@@ -1,5 +1,5 @@
 # Blackrock-hackknight
-Project Description: Integrated Portfolio Management System with Stock Price Prediction and Personal Risk Advisor Chatbot
+### Project Description: Integrated Portfolio Management System with Stock Price Prediction and Personal Risk Advisor Chatbot
 
 Introduction:
 Our innovative Portfolio Management System combines cutting-edge technologies to empower investors with the tools they need to make informed decisions, optimize their portfolios, and mitigate risks. This comprehensive solution encompasses a Stock Price Predictor based on LSTM models, updated daily to capture the latest market trends, and a personalized risk advisory ChatGPT bot that assists users in diversifying their portfolios.
