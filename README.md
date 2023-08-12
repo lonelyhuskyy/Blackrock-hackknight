@@ -1,5 +1,19 @@
 # Blackrock-hackknight
+## Project Name : Stocki.Ai
 ### Project Description: Integrated Portfolio Management System with Stock Price Prediction and Personal Risk Advisor Chatbot
+
+### Images : 
+- ### Home 
+![Home](https://raw.githubusercontent.com/lonelyhuskyy/Blackrock-hackknight/master/project%20imgs/home.png)
+- ### Login
+![LogIn](https://raw.githubusercontent.com/lonelyhuskyy/Blackrock-hackknight/master/project%20imgs/login.png)
+- ### Stock Price Predictor
+![Form](https://raw.githubusercontent.com/lonelyhuskyy/Blackrock-hackknight/master/project%20imgs/form.png)
+- ### Result
+![Prediction](https://raw.githubusercontent.com/lonelyhuskyy/Blackrock-hackknight/master/project%20imgs/form-prediction.png)
+- ### ChatBot
+![ChatBot](https://raw.githubusercontent.com/lonelyhuskyy/Blackrock-hackknight/master/project%20imgs/chatbot.png)
+
 
 Introduction:
 Our innovative Portfolio Management System combines cutting-edge technologies to empower investors with the tools they need to make informed decisions, optimize their portfolios, and mitigate risks. This comprehensive solution encompasses a Stock Price Predictor based on LSTM models, updated daily to capture the latest market trends, and a personalized risk advisory ChatGPT bot that assists users in diversifying their portfolios.
