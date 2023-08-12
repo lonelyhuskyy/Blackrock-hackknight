@@ -1,0 +1,11 @@
+.marquee-container {
+    border: 1px solid #171718;
+    padding: 5px;
+    overflow: hidden;
+  }
+  
+  .marquee-item {
+    margin-right: 20px;
+    white-space: nowrap;
+  }
+  
