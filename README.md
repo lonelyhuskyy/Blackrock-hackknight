@@ -31,8 +31,8 @@ Benefits:
 Conclusion:
 Our Portfolio Management System integrates advanced technologies to provide a holistic solution for investors seeking to optimize their portfolios and manage risks effectively. With the Stock Price Predictor and the Personal Risk Advisor Chatbot, users can navigate the complexities of the financial markets with confidence, making informed decisions that align with their investment goals and risk tolerance.
 
-### Team Members:
-### Raghav Khanna - https://www.linkedin.com/in/raghav-khanna-446895199/
-### Aniket Tripathi - https://www.linkedin.com/in/aniket-tripathi-101447272/
-### Param Arora - https://www.linkedin.com/in/paramarora/
-### Aabir Chakraborty - https://www.linkedin.com/in/aabir-chakraborty/
+### Connect with us (Team Members):
+[![Raghav Khanna](https://www.linkedin.com/in/raghav-khanna-446895199/)
+[![Aniket Tripathi](https://www.linkedin.com/in/aniket-tripathi-101447272/)
+[![Param Arora](https://www.linkedin.com/in/paramarora/) 
+[![Aabir Chakraborty](https://www.linkedin.com/in/aabir-chakraborty/)
