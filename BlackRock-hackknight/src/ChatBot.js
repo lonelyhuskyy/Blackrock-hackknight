@@ -5,7 +5,7 @@ import { MainContainer, ChatContainer, MessageList, Message, MessageInput, Typin
 import './Chatbot.css'; // Your existing CSS file
 
 
-const API_KEY = "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";
+const API_KEY = process.env.API_KEY;
 
 const systemMessage = { 
   "role": "system", "content": "Explain things like you're talking to a software professional with 2 years of experience."
